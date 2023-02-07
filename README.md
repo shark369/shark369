@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shark369
 - 👀 I’m interested in in working with programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java and C
+- 💞️ I’m looking to collaborate on Java, C, R, HTML/css/JavaScript
 - 📫 How to reach me luizfilipesantos9919@gmail.com
 
 <!---
