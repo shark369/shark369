@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @shark369
-- 👀 I’m interested in in working with programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java, C, R, HTML/css/JavaScript
-- 📫 How to reach me luizfilipesantos9919@gmail.com
+# Olá, eu sou o Luiz Filipe! 👋
 
-<!---
-shark369/shark369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Ciência+da+Computação;Apaixonado+por+tecnologia+e+aprendizado" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+Sou concluindo de **Ciência da Computação na UEPB** e um desenvolvedor apaixonado por resolver problemas através da tecnologia. Tenho grande facilidade para absorver novos conceitos rapidamente e aplicá-los na prática, atuando de ponta a ponta no desenvolvimento de software.
+
+### 🚀 Sobre mim
+- 🎓 Graduando em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB).
+- 💻 Tenho experiência prática como Desenvolvedor Full Stack, tendo atuado em uma empresa de Pernambuco.
+- 🔭  Atualmente focado em aprimorar minhas habilidades de arquitetura e metodologias ágeis (SCRUM), desenvolvendo projetos como um *Gerenciador de Ordens de serviço* e idealizando o projeto *S.H.A.R.K.* (Sistema Heurístico de Administração de Redes e Keys).
+- ⚡ **Superpoder:** Alta capacidade de adaptação, lógica afiada e aprendizado rápido de novas stacks e regras de negócio.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,r,html,css,js,mysql,postgresql,git&perline=9" alt="Minhas Habilidades" />
+</div>
+
+<br>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shark369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark369&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Como me encontrar
+<div align="center">
+  <a href="(https://www.linkedin.com/in/luiz-filipe-983b04233/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:luizfilipesantos9919@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
