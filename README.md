@@ -28,15 +28,6 @@ Sou concluindo de **Ciência da Computação na UEPB** e um desenvolvedor apaixo
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shark369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark369&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Como me encontrar
 <div align="center">
   <a href="(https://www.linkedin.com/in/luiz-filipe-983b04233/)" target="_blank">
